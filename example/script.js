@@ -5,7 +5,7 @@ let currentHole = null;
 let molesWhacked = 0;
 let currentTime = 60;
 let hits = 0;
-
+//Do things
 // Append listener
 holes.forEach(hole => {
     hole.addEventListener('click', (e) => {
